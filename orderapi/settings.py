@@ -132,5 +132,5 @@ KAFKA_CONFIG = {
     'auto.offset.reset': 'earliest'
 }
 
-KAFKA_TOPIC = 'ORDER_TOPIC'
+KAFKA_TOPIC = 'ORDER_NEW'
 
